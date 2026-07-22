@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist 3D Portfolio",
+  "description": "A stunning, responsive, minimal 3D personal portfolio featuring custom WebGL geometric scenes, interactive work galleries, and elegant dark/light styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
