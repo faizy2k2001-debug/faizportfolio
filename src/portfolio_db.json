@@ -1,0 +1,316 @@
+{
+  "credentials": {
+    "username": "admin",
+    "passwordHash": "cb972019a671c39d8295361683a275313ca837813b3b4fb902a8e037d80cfac098d0b9841eea85461b9eaaf9db2844b1fe5322613cbecfc00e65a4955b662260",
+    "salt": "8c04acf1ca3a636596e7ea514536fbbc"
+  },
+  "projects": [
+    {
+      "id": "brand-1",
+      "title": "Aura Cosmetic Identity",
+      "category": "branding",
+      "categoryName": "Branding",
+      "image": "linear-gradient(135deg, #1e1e24 0%, #a855f7 100%)",
+      "description": "A luxury minimal skincare identity designed with organic geometries and elegant typography.",
+      "client": "Aura Labs Co.",
+      "year": "2026",
+      "tags": [
+        "Brand Guidelines",
+        "Logotype",
+        "Art Direction"
+      ]
+    },
+    {
+      "id": "brand-2",
+      "title": "Vesper Financial Redesign",
+      "category": "branding",
+      "categoryName": "Branding",
+      "image": "linear-gradient(135deg, #0f172a 0%, #06b6d4 100%)",
+      "description": "Rebranding a leading neo-bank with a high-fidelity visual system emphasizing security and fluid motion.",
+      "client": "Vesper Group",
+      "year": "2025",
+      "tags": [
+        "Visual System",
+        "Identity",
+        "Design Tokenry"
+      ]
+    },
+    {
+      "id": "ui-ux-1",
+      "title": "Holo Smart Home Console",
+      "category": "ui-ux",
+      "categoryName": "UI/UX",
+      "image": "linear-gradient(135deg, #111827 0%, #10b981 100%)",
+      "description": "An immersive, gesture-controlled tablet interface for high-end home automation.",
+      "client": "Holo Systems",
+      "year": "2026",
+      "tags": [
+        "Mobile App",
+        "Design System",
+        "Interactive Prototype"
+      ]
+    },
+    {
+      "id": "ui-ux-2",
+      "title": "Metamarket NFT Terminal",
+      "category": "ui-ux",
+      "categoryName": "UI/UX",
+      "image": "linear-gradient(135deg, #09090b 0%, #f43f5e 100%)",
+      "description": "A dark-mode-centric Web3 trading dashboard engineered for instantaneous price tracking.",
+      "client": "Metamarket Corp",
+      "year": "2025",
+      "tags": [
+        "Web App",
+        "UX Architecture",
+        "Data Vis"
+      ]
+    }
+  ],
+  "videoReels": [
+    {
+      "id": "reel-1",
+      "title": "Cinematic Visuals Reel",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-liquid-motion-with-pink-blue-and-purple-colors-42861-large.mp4",
+      "fallbackPoster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "tagline": "Exploring organic liquid simulations and high-fidelity CGI shaders."
+    },
+    {
+      "id": "reel-2",
+      "title": "Interactive Web & UI Showcase",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-abstract-glowing-digital-particles-background-41613-large.mp4",
+      "fallbackPoster": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80",
+      "tagline": "High-performance WebGL animations and responsive interface physics."
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "company": "Phantoms Studio",
+      "role": "Senior Lead Designer",
+      "duration": "2024 — Present",
+      "contributions": [
+        "Directed the interactive visual identity and 3D experiences for fortune-500 luxury brands.",
+        "Engineered in-house creative templates reducing team prototyping cycles by over 40%.",
+        "Collaborated closely with creative developers to deploy WebGL landing pages with zero performance lag."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "company": "Nova Interactive",
+      "role": "UI/UX & Interactive Designer",
+      "duration": "2022 — 2024",
+      "contributions": [
+        "Designed and documented comprehensive design systems, used across 4 separate international product lines.",
+        "Created highly tailored, smooth-scrolling client catalogs, expanding client digital conversion by 34%.",
+        "Mentored junior design associates in motion design principles, spacing rigor, and typographic systems."
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1",
+      "title": "Spatial Prototyping Masterclass",
+      "description": "Deep dive into 3D physics models, typography layout grid structures, and interactive lighting shadows.",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-stars-in-space-background-1611-large.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "vid-2",
+      "title": "Typography & Modern Layouts",
+      "description": "A solid walkthrough of Swiss international typographic grid designs and responsive scaling systems.",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-glowing-lines-of-a-circuit-board-background-31742-large.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "videoCards": [
+    {
+      "id": "card-1",
+      "title": "Spline 3D Scene Assembly",
+      "subtitle": "High-performance spatial composition and visual shaders",
+      "thumbnail": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=800&q=80",
+      "link": "https://spline.design"
+    },
+    {
+      "id": "card-2",
+      "title": "Figma Typography Tokens",
+      "subtitle": "Automated scaling matrices and editorial styling hierarchies",
+      "thumbnail": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80",
+      "link": "https://figma.com"
+    }
+  ],
+  "profile": {
+    "name": "Faiz khan",
+    "role": "Lead UI/UX & Motion Designer",
+    "aboutPhilosophy": "Crafting tactile digital products & spatial motion experiences.",
+    "aboutBioParagraphs": [
+      "Hi, I'm Faiz Khan. I design high-fidelity digital products, interactive design systems, and spatial motion experiences that live at the precise intersection of mathematical layout, typography rigor, and visual craft.",
+      "Over the past 6+ years, I've led UI/UX design, motion direction, and visual brand identities for ambitious startups, luxury brands, and digital agencies. I believe typography carries the soul of a layout, while motion, lighting, and 3D depth provide its pulse.",
+      "My process combines Figma design token systems, Motion.page keyframe choreography, Spline 3D spatial scenes, and interactive prototypes—delivering memorable visual craft that scales seamlessly across all devices."
+    ],
+    "contactEmail": "faizy2k2001@gmail.com",
+    "mobileNumber": "+91 8640043135",
+    "emailAddress": "faizy2k2001@gmail.com",
+    "accentColor": "blue",
+    "heroTitlePrefix": "Unlimited",
+    "heroTitleSuffix": "Design",
+    "heroTitleBody": "for Solid Startups",
+    "heroSubtitle": "We help premium brands and ambitious startups design beautiful, high-fidelity digital products — fast, reliable, and completely hassle-free.",
+    "showVideoReel": true,
+    "showSkills": true,
+    "showExperience": true,
+    "showStats": true,
+    "showSmileyBall": true,
+    "logo": "",
+    "heroImage": "",
+    "philosophyHeading": "Designing at the boundary of logic & art.",
+    "philosophySubheading": "Core Philosophy",
+    "philosophyDescription": "I engineer tactile digital environments that live at the precise intersection of mathematical layout, graphics shading, and visual rigor. Over the past 6+ years, I've designed interactive portals, responsive design systems, and physical packaging lookbooks for luxury brands, design studios, and product organizations.",
+    "philosophySupportingText": "I believe typography carries the soul of a layout, while motion and lighting provide its pulse. My process remains highly collaborative, strict in grid structures, and performance-oriented—ensuring heavy 3D canvases build seamlessly and render at stable refresh rates on all devices.",
+    "philosophyHeroImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "sectionSpacing": "normal",
+    "fontFamily": "sans",
+    "buttonStyle": "pill",
+    "chipsStyle": "pill-outline",
+    "effectsStyle": "glassmorphism",
+    "motionStrength": "normal",
+    "sectionOrder": [
+      "hero",
+      "videoReels",
+      "work",
+      "about",
+      "skills",
+      "experience",
+      "videos",
+      "contact"
+    ]
+  },
+  "visitors": [
+    {
+      "id": "rczx5l9",
+      "timestamp": "2026-07-21T18:48:29.556Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "386byeg",
+      "timestamp": "2026-07-21T18:48:16.645Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "2shfog5",
+      "timestamp": "2026-07-21T18:39:02.809Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/project/brand-1",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "pj4wymq",
+      "timestamp": "2026-07-21T18:39:00.910Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/work/branding",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "cw86gs3",
+      "timestamp": "2026-07-21T18:38:45.256Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "rt3c57f",
+      "timestamp": "2026-07-21T18:38:36.083Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/work/packaging",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "x5keo5c",
+      "timestamp": "2026-07-21T18:38:02.305Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "3cb3ej8",
+      "timestamp": "2026-07-21T18:35:46.175Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "otoogr6",
+      "timestamp": "2026-07-21T18:32:02.193Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "u3zgsow",
+      "timestamp": "2026-07-21T18:27:09.555Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "nia6crs",
+      "timestamp": "2026-07-21T18:24:07.886Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "yvyd38v",
+      "timestamp": "2026-07-21T18:22:04.267Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "wdrci9p",
+      "timestamp": "2026-07-21T18:16:37.387Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    },
+    {
+      "id": "001t7a4",
+      "timestamp": "2026-07-21T18:03:41.549Z",
+      "ip": "2401:4900:88ba:b79d:1507:16bd:bff4:c84d, 169.254.169.126",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "path": "/",
+      "referrer": "https://aistudio.google.com/",
+      "screenSize": "998x586"
+    }
+  ],
+  "submissions": []
+}
